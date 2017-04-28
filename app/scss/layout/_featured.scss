@@ -8,9 +8,53 @@
 .featured-header h2 {
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	margin-left: 250px;
+	margin-left: 185px;
 }
 
 .featured-table {
+	display: flex;
 	height: 690px;
+	align-items: center;
+	justify-content: center;
+}
+
+.featured-table-row {
+}
+
+.featured-table-row-item {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 25px;
+	width: 250px;
+	height: 250px;
+	border-bottom: 4px solid #3cc395;
+	font-family: 'Oswald', sans-serif;
+}
+
+.featured-table-row-item img {
+	max-width: 120px;
+    max-height: 120px;
+}
+
+.featured-table-row-item  h2 {
+    max-width: 150px;
+    color: #afafaf;
+    margin: 5px;
+}
+
+.featured-table-row-item  h2:nth-child(3) {
+	display: inline-block;
+}
+
+.featured-table-row-item button {
+	display: inline-block;
+	background-color: #3cc395;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    width: 70px;
+    height: 30px;
+    padding: 0;
+    margin: 0;
 }
