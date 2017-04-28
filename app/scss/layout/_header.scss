@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 80px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 50px;
+    max-width: 100%;
+}
+
+.search {
+    width: 500px;
+    height: 30px;
+    margin-right: 50px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    background: white url('../img/search-glass.png') 98% 50% no-repeat;
+    padding-left: 10px;
+    font-size: 16px;
+    border: none;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2) inset, 0 -1px 0 rgba(0,0,0,0.05) inset;
+}
+
+.cart {
+    display: flex;
+    align-items: center;
+}
+
+.cart-count {
+    margin-left: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: #a1a1a1;
+}

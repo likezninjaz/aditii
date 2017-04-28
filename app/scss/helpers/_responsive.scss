@@ -1,0 +1,23 @@
+@media screen and (max-width: 800px) {
+    .navigation {
+        flex-direction: column;
+    }
+
+    .navigation a {
+        display: none;
+        padding: 5px 20px;
+        margin-left: 20px;
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid white;
+    }
+
+    .navigation a:last-child {
+        border-bottom: none;
+    }
+
+    .navigation {
+        flex-direction: column;
+        height: auto;
+    }
+}

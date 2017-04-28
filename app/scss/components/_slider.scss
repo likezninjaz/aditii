@@ -1,0 +1,49 @@
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #40c8b2 url(../img/slider-texture.png) repeat;
+    height: 400px;
+}
+
+.slider-image {
+    max-height: 300px;
+}
+
+.slider-description {
+    color: white;
+    margin-left: 50px;
+    display: block;
+}
+
+.slider-header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+    max-width: 200px;
+}
+
+.slider-paragraph {
+    max-width: 400px;
+}
+
+.slider-button {
+    background-color: #40c8b2;
+    border: 3px solid white;
+    border-radius: 4px;
+    width: 80px;
+    height: 46px;
+    font-family: 'Oswald', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.slider-dot {
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: white;
+    width: 8px;
+    height: 8px;
+    align-self: flex-end;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}

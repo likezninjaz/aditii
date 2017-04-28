@@ -1,0 +1,25 @@
+.navigation {
+    justify-content: center;
+    align-items: center;
+    background-color: #3cc2b6;
+    display: flex;
+    height: 40px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: white;
+    border-right: 1px solid white;
+    padding: 0 10px;
+    font-family: 'Oswald', sans-serif;
+    transition: font-size 0.2s;
+}
+
+.navigation a:last-child {
+    border-right: none;
+}
+
+.navigation a:hover {
+    font-size: 150%;
+    transition: font-size 0.2s;
+}
