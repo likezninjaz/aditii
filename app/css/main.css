@@ -573,3 +573,36 @@ header {
   height: 30px;
   padding: 0;
   margin: 0; }
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 335px;
+  background-color: #3cc2b6; }
+
+.footer-links ul {
+  margin-left: 90px; }
+
+.footer-links ul:first-child {
+  margin-left: 0; }
+
+.footer-links ul li {
+  color: white;
+  list-style-type: none; }
+
+.footer-links ul li:first-child {
+  font-size: 150%;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  list-style-type: none; }
+
+.footer-copyright {
+  background-color: #2da89b;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white; }
