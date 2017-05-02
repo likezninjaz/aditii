@@ -5,47 +5,47 @@ var Footer = React.createClass({
                 <div className="footer-links">
                  <ul>
                     <li>FEATURED SALE</li>
-                    <li>Alexis Hudson</li>
-                    <li>American Apparel</li>
-                    <li>Ben Sherman</li>
-                    <li>Big Buddha</li>
-                    <li>Chanel</li>
-                    <li>Christian Audigier</li>
-                    <li>Coach</li>
-                    <li>Cole Haan</li>
+                    <li><a href="#">Alexis Hudson</a></li>
+                    <li><a href="#">American Apparel</a></li>
+                    <li><a href="#">Ben Sherman</a></li>
+                    <li><a href="#">Big Buddha</a></li>
+                    <li><a href="#">Chanel</a></li>
+                    <li><a href="#">Christian Audigier</a></li>
+                    <li><a href="#">Coach</a></li>
+                    <li><a href="#">Cole Haan</a></li>
                  </ul>
                  <ul>
                     <li>FEATURED SALE</li>
-                    <li>Alexis Hudson</li>
-                    <li>American Apparel</li>
-                    <li>Ben Sherman</li>
-                    <li>Big Buddha</li>
-                    <li>Chanel</li>
-                    <li>Christian Audigier</li>
-                    <li>Coach</li>
-                    <li>Cole Haan</li>
+                    <li><a href="#">Alexis Hudson</a></li>
+                    <li><a href="#">American Apparel</a></li>
+                    <li><a href="#">Ben Sherman</a></li>
+                    <li><a href="#">Big Buddha</a></li>
+                    <li><a href="#">Chanel</a></li>
+                    <li><a href="#">Christian Audigier</a></li>
+                    <li><a href="#">Coach</a></li>
+                    <li><a href="#">Cole Haan</a></li>
                  </ul>
                  <ul>
                     <li>FEATURED SALE</li>
-                    <li>Alexis Hudson</li>
-                    <li>American Apparel</li>
-                    <li>Ben Sherman</li>
-                    <li>Big Buddha</li>
-                    <li>Chanel</li>
-                    <li>Christian Audigier</li>
-                    <li>Coach</li>
-                    <li>Cole Haan</li>
+                    <li><a href="#">Alexis Hudson</a></li>
+                    <li><a href="#">American Apparel</a></li>
+                    <li><a href="#">Ben Sherman</a></li>
+                    <li><a href="#">Big Buddha</a></li>
+                    <li><a href="#">Chanel</a></li>
+                    <li><a href="#">Christian Audigier</a></li>
+                    <li><a href="#">Coach</a></li>
+                    <li><a href="#">Cole Haan</a></li>
                  </ul>
                  <ul>
                     <li>FEATURED SALE</li>
-                    <li>Alexis Hudson</li>
-                    <li>American Apparel</li>
-                    <li>Ben Sherman</li>
-                    <li>Big Buddha</li>
-                    <li>Chanel</li>
-                    <li>Christian Audigier</li>
-                    <li>Coach</li>
-                    <li>Cole Haan</li>
+                    <li><a href="#">Alexis Hudson</a></li>
+                    <li><a href="#">American Apparel</a></li>
+                    <li><a href="#">Ben Sherman</a></li>
+                    <li><a href="#">Big Buddha</a></li>
+                    <li><a href="#">Chanel</a></li>
+                    <li><a href="#">Christian Audigier</a></li>
+                    <li><a href="#">Coach</a></li>
+                    <li><a href="#">Cole Haan</a></li>
                  </ul>
                 </div>
                 <div className="footer-copyright">

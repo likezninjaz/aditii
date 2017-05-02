@@ -2,6 +2,7 @@ var App = React.createClass({
     render: function() {
         return (
             <header>
+                <a href="" className="navigation-burger-button"></a>
                 <img src="img/logo.png" className="logo"/>
                 <input type="search" className="search" id="search"/>
                 <div className="cart">

@@ -3,7 +3,8 @@
     align-items: center;
     background-color: #3cc2b6;
     display: flex;
-    height: 40px;
+    overflow: hidden;
+    height: auto;
 }
 
 .navigation a {
@@ -17,9 +18,4 @@
 
 .navigation a:last-child {
     border-right: none;
-}
-
-.navigation a:hover {
-    font-size: 150%;
-    transition: font-size 0.2s;
 }
