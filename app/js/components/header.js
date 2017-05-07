@@ -3,6 +3,7 @@ var App = React.createClass({
         return (
             <header>
                 <a href="" className="navigation-burger-button"></a>
+                <img src="img/search-glass.png" className="search-mobile"/>
                 <img src="img/logo.png" className="logo"/>
                 <input type="search" className="search" id="search"/>
                 <div className="cart">
